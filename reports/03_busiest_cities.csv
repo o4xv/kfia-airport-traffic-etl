@@ -1,0 +1,6 @@
+city,traffic_type,reported_passengers,flights,missing_passenger_rows
+Jeddah,Domestic,2000448,13836,0
+Riyadh,Domestic,1410915,10173,0
+Cairo,International,732819,5054,0
+Dubai,International,699673,4862,0
+Madinah,Domestic,477635,3306,0

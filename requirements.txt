@@ -1,0 +1,11 @@
+# Verified together on Python 3.12.13. Exact versions make this project reproducible.
+pandas==3.0.5
+SQLAlchemy==2.0.52
+psycopg2-binary==2.9.12
+python-dotenv==1.2.3
+numpy==2.5.3
+greenlet==3.5.5
+python-dateutil==2.9.0.post0
+six==1.17.0
+typing_extensions==4.16.0
+tzdata==2026.3

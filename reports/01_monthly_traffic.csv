@@ -1,0 +1,23 @@
+month_start,reported_passengers,flights,missing_passenger_rows,coverage
+2024-01-01,958425,6906,1,Incomplete passenger values
+2024-02-01,940780,7030,1,Incomplete passenger values
+2024-03-01,914460,6944,2,Incomplete passenger values
+2024-04-01,978566,7403,1,Incomplete passenger values
+2024-05-01,1007439,7507,0,No missing passenger values
+2024-06-01,1098652,8024,1,Incomplete passenger values
+2024-07-01,1177834,8006,2,Incomplete passenger values
+2024-08-01,1103602,8115,1,Incomplete passenger values
+2024-09-01,961844,7322,2,Incomplete passenger values
+2024-10-01,984505,7573,0,No missing passenger values
+2024-11-01,1049566,7523,1,Incomplete passenger values
+2024-12-01,1068633,7641,0,No missing passenger values
+2025-01-01,1161836,8014,0,No missing passenger values
+2025-02-01,979838,6890,0,No missing passenger values
+2025-03-01,971468,7543,1,Incomplete passenger values
+2025-04-01,1088314,7701,1,Incomplete passenger values
+2025-05-01,1072524,8070,0,No missing passenger values
+2025-06-01,1088295,8105,0,No missing passenger values
+2025-07-01,1244059,8388,0,No missing passenger values
+2025-08-01,1234822,8480,1,Incomplete passenger values
+2025-09-01,1039513,7773,1,Incomplete passenger values
+2025-10-01,1084905,7819,0,No missing passenger values

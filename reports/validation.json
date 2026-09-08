@@ -1,0 +1,30 @@
+{
+  "checked_at_utc": "2026-09-08T17:24:50.044066+00:00",
+  "mode": "loaded_and_verified",
+  "detail_rows": 2479,
+  "period_start": "2024-01-01",
+  "period_end": "2025-10-01",
+  "known_passengers": 23209880,
+  "flights": 168777,
+  "missing_passenger_rows": 16,
+  "sources": [
+    {
+      "source_file": "2024-2025-Open_Data_Domestic.csv",
+      "url": "https://kfia.sa/-/media/Project/Daco-Digital-Channels/KFIA/open-data/csv/2024-2025-Open_Data_Domestic.csv",
+      "sha256": "8413a0eca5b225cdb22b15537198ae4af770229c91a2098fbac0efe141287cbd",
+      "detail_rows": 674,
+      "passengers": 11557402,
+      "flights": 83949,
+      "missing_passenger_rows": 0
+    },
+    {
+      "source_file": "2024-2025-Open_Data_International.csv",
+      "url": "https://kfia.sa/-/media/Project/Daco-Digital-Channels/KFIA/open-data/csv/2024-2025-Open_Data_International.csv",
+      "sha256": "a348f29f806a6dd51aee2325dc38cf6dc9ada19698bcf01d2874ab173a4aa3a9",
+      "detail_rows": 1805,
+      "passengers": 11652478,
+      "flights": 84828,
+      "missing_passenger_rows": 16
+    }
+  ]
+}
