@@ -1,9 +1,7 @@
 """Lesson 2: compare a text passenger count with its cleaned integer."""
-from pathlib import Path
-
 import pandas as pd
 
-file = Path(__file__).resolve().parents[1] / "data" / "raw" / "2024-2025-Open_Data_Domestic.csv"
+file = "data/raw/2024-2025-Open_Data_Domestic.csv"
 data = pd.read_csv(file, skiprows=3, nrows=5, encoding="cp1252", dtype="string")
 
 print("Original strings:", data["Pax"].tolist())
